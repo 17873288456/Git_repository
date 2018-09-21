@@ -1,0 +1,259 @@
+{
+    "configs": [
+        {
+            "server": "47.254.47.67",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12102
+        },
+        {
+            "server": "47.254.46.103",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12103
+        },
+        {
+            "server": "47.88.57.178",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12104
+        },
+        {
+            "server": "47.88.54.144",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12105
+        },
+        {
+            "server": "47.88.54.118",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12106
+        },
+        {
+            "server": "47.88.59.7",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12107
+        },
+        {
+            "server": "47.254.46.233",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12108
+        },
+        {
+            "server": "47.88.51.105",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12109
+        },
+        {
+            "server": "47.88.49.217",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12110
+        },
+        {
+            "server": "47.88.51.128",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12111
+        },
+        {
+            "server": "47.254.47.71",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12112
+        },
+        {
+            "server": "47.88.52.101",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12113
+        },
+        {
+            "server": "47.88.63.203",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12114
+        },
+        {
+            "server": "47.88.58.35",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12115
+        },
+        {
+            "server": "47.254.24.216",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+			"group":1,
+            "localport": 12116
+        },
+		{
+            "server": "123.56.9.36",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12117
+        },
+         {
+            "server": "123.56.16.103",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12118
+        },
+        {
+            "server": "60.205.223.170",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12119
+        },
+        {
+            "server": "101.201.233.65",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12120
+        },
+        {
+            "server": "123.56.12.144",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12121
+        },
+        {
+            "server": "123.56.30.229",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12122
+        },
+        {
+            "server": "60.205.203.250",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12123
+        },
+        {
+            "server": "101.201.69.187",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12124
+        },
+        {
+            "server": "60.205.214.60",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12125
+        },
+        {
+            "server": "60.205.184.53",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12126
+        },
+        {
+            "server": "123.56.16.221",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12127
+        },
+        {
+            "server": "60.205.211.28",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12128
+        },
+        {
+            "server": "101.201.71.207",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12129
+        },
+        {
+            "server": "60.205.215.102",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12130
+        },
+        {
+            "server": "60.205.207.69",
+            "server_port": 443,
+            "password": "isi2016",
+            "method": "aes-256-cfb",
+            "remarks": "",
+            "localport": 12131
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+2018-08-16 08:41:26 [Thread=main] [com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:745)] init datasource error, url: jdbc:mysql://192.168.10.175:3306/wg_platform_kb?characterEncoding=utf8
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:348)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2391)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2428)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2213)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:797)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:389)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:305)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1464)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1529)
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:734)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1069)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1065)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:104)
+	at com.jfinal.plugin.activerecord.TableBuilder.build(TableBuilder.java:38)
+	at com.jfinal.plugin.activerecord.ActiveRecordPlugin.start(ActiveRecordPlugin.java:209)
+	at com.wenge.datagroup.common.InitContext.initDataSource(InitContext.java:69)
+	at com.wenge.datagroup.common.InitContext.initDatasource(InitContext.java:31)
+	at com.wenge.datagroup.CrawlerChannal.main(CrawlerChannal.java:96)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:257)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 23 more
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/newsemails
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/subscribe
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://anntw.com/
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/news
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/editorial
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/broadcasting
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/2-3-2
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/2-2-2
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/2-3
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/editorial-meeting
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/2
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/2-2-2-2
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/13
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://anntw.com/blogs
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/international-news-headlines
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/col/letters-from-the-director
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180815-02Ve
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180726-wKhC
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180724-VWKo
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180719-phhK
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180718-m0G0
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180723-GMSt
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180717-Obf9
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180716-BJNW
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180705-2cbh
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180627-ExPl
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180704-q0AB
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180703-kR34
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180710-jgQR
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180626-7sN0
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180712-HjY4
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180709-iocL
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180620-GqHS
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180621-zOWb
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180628-nHt8
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180702-3Lri
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180813-dXFs
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180813-pAdL
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180813-zfTi
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180726-QzUI
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180717-bhzv
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180731-wbf1
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180722-NThG
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180724-P1xo
+2018-08-16 10:23:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:400)] detail_url = https://www.anntw.com/articles/20180718-qA66

@@ -1,0 +1,23 @@
+2018-08-15 15:23:07 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:507)] URL:http://spanish.china.org.cn/node_7196111.htm 解析失败!
+2018-08-15 15:23:07 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:507)] URL:http://spanish.china.org.cn/node_7196111.htm 解析失败!
+2018-08-15 16:20:19 [Thread=main] [com.wenge.datagroup.main.CrawlerRmiClient.main(CrawlerRmiClient.java:122)] Parameter error!{ Parameter is (list or channal)}
+2018-08-15 16:21:23 [Thread=main] [com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:745)] init datasource error, url: jdbc:mysql://192.168.10.175:3306/wg_platform_kb?characterEncoding=utf8
+java.sql.SQLException: ResultSet is from UPDATE. No Data.
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1073)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:987)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:982)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:927)
+	at com.mysql.jdbc.ResultSetImpl.next(ResultSetImpl.java:6870)
+	at com.mysql.jdbc.ConnectionImpl.getTransactionIsolation(ConnectionImpl.java:3215)
+	at com.alibaba.druid.pool.DruidConnectionHolder.<init>(DruidConnectionHolder.java:145)
+	at com.alibaba.druid.pool.DruidConnectionHolder.<init>(DruidConnectionHolder.java:84)
+	at com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:735)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1069)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:1065)
+	at com.alibaba.druid.pool.DruidDataSource.getConnection(DruidDataSource.java:104)
+	at com.jfinal.plugin.activerecord.TableBuilder.build(TableBuilder.java:38)
+	at com.jfinal.plugin.activerecord.ActiveRecordPlugin.start(ActiveRecordPlugin.java:209)
+	at com.wenge.datagroup.common.InitContext.initDataSource(InitContext.java:69)
+	at com.wenge.datagroup.common.InitContext.initDatasource(InitContext.java:31)
+	at com.wenge.datagroup.main.CrawlerRmiClient.init(CrawlerRmiClient.java:39)
+	at com.wenge.datagroup.main.CrawlerRmiClient.main(CrawlerRmiClient.java:125)

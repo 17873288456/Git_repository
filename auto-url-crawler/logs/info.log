@@ -1,0 +1,589 @@
+2018-08-30 14:27:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:27:33 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup解析
+2018-08-30 14:28:19 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:705)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup下载完成
+2018-08-30 14:28:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml,解析成功!
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 获取到href: 15
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:1, totalLinks:15
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:28:28 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 采集完成!
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup解析
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:705)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup下载完成
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml,解析成功!
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 获取到href: 15
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:29:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:1, totalLinks:15
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml->《新闻联播》 20180827 21:00
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml->[视频]习近平在推进“一带一路”建设工作5周年座谈会上强调 坚持对话协商共建共享合作共赢交流互鉴 推动共建“一带一路”走深走实造福人民
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml->[视频]李克强对2018年全国医改工作电视电话会议作出重要批示强调 持续加大医疗医保医药联动改革力度 更有效缓解群众看病难看病贵问题
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml->[视频]十三届全国人大常委会第五次会议在京举行 继续审议电子商务法草案 个人所得税法修正案草案等
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml->[视频]韩正会见香港纪律部队文化交流团
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml->[视频]王岐山会见秘鲁外长
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml->[视频]人民日报评论员文章：推动构建人类命运共同体的重要实践平台——论学习习近平总书记在推进“一带一路”建设工作5周年座谈会重要讲话
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml->[视频]国务院办公厅印发《关于进一步调整优化结构提高教育经费使用效益的意见》
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml->[视频]新修订的《中国共产党纪律处分条例》彰显政治性 时代性 针对性
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml->[视频]国新办发布会：“一带一路”从理念愿景转化为现实行动
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml->[视频]中宣部追授杨雪峰“时代楷模”称号
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml->[视频]第十八届亚运会：百米飞人大战苏炳添夺冠
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml->[视频]国内联播快讯
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml->[视频]美对俄新制裁今天生效
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml->[视频]国际联播快讯
+2018-08-30 14:29:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 采集完成!
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup解析
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:705)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup下载完成
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml,解析成功!
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 获取到href: 15
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:1, totalLinks:15
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml->《新闻联播》 20180827 21:00
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml->[视频]习近平在推进“一带一路”建设工作5周年座谈会上强调 坚持对话协商共建共享合作共赢交流互鉴 推动共建“一带一路”走深走实造福人民
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml->[视频]李克强对2018年全国医改工作电视电话会议作出重要批示强调 持续加大医疗医保医药联动改革力度 更有效缓解群众看病难看病贵问题
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml->[视频]十三届全国人大常委会第五次会议在京举行 继续审议电子商务法草案 个人所得税法修正案草案等
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml->[视频]韩正会见香港纪律部队文化交流团
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml->[视频]王岐山会见秘鲁外长
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml->[视频]人民日报评论员文章：推动构建人类命运共同体的重要实践平台——论学习习近平总书记在推进“一带一路”建设工作5周年座谈会重要讲话
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml->[视频]国务院办公厅印发《关于进一步调整优化结构提高教育经费使用效益的意见》
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml->[视频]新修订的《中国共产党纪律处分条例》彰显政治性 时代性 针对性
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml->[视频]国新办发布会：“一带一路”从理念愿景转化为现实行动
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml->[视频]中宣部追授杨雪峰“时代楷模”称号
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml->[视频]第十八届亚运会：百米飞人大战苏炳添夺冠
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml->[视频]国内联播快讯
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml->[视频]美对俄新制裁今天生效
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml->[视频]国际联播快讯
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第2页
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:29 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第3页
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第4页
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第5页
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第6页
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:30 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第7页
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第8页
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第9页
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第10页
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:32 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:31:32 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:31:32 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:181)] 当前是第10页,不再采集下一页
+2018-08-30 14:31:32 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 采集完成!
+2018-08-30 14:32:43 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:32:47 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup解析
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:705)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup下载完成
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml,解析成功!
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 获取到href: 15
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:1, totalLinks:15
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml->《新闻联播》 20180827 21:00
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml->[视频]习近平在推进“一带一路”建设工作5周年座谈会上强调 坚持对话协商共建共享合作共赢交流互鉴 推动共建“一带一路”走深走实造福人民
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml->[视频]李克强对2018年全国医改工作电视电话会议作出重要批示强调 持续加大医疗医保医药联动改革力度 更有效缓解群众看病难看病贵问题
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml->[视频]十三届全国人大常委会第五次会议在京举行 继续审议电子商务法草案 个人所得税法修正案草案等
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml->[视频]韩正会见香港纪律部队文化交流团
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml->[视频]王岐山会见秘鲁外长
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml->[视频]人民日报评论员文章：推动构建人类命运共同体的重要实践平台——论学习习近平总书记在推进“一带一路”建设工作5周年座谈会重要讲话
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml->[视频]国务院办公厅印发《关于进一步调整优化结构提高教育经费使用效益的意见》
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml->[视频]新修订的《中国共产党纪律处分条例》彰显政治性 时代性 针对性
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml->[视频]国新办发布会：“一带一路”从理念愿景转化为现实行动
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml->[视频]中宣部追授杨雪峰“时代楷模”称号
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml->[视频]第十八届亚运会：百米飞人大战苏炳添夺冠
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml->[视频]国内联播快讯
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml->[视频]美对俄新制裁今天生效
+2018-08-30 14:32:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml->[视频]国际联播快讯
+2018-08-30 14:34:10 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:34:10 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup解析
+2018-08-30 14:34:10 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:709)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup下载完成
+2018-08-30 14:34:10 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml,解析成功!
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 获取到href: 15
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:1, totalLinks:15
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml->《新闻联播》 20180827 21:00
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml->[视频]习近平在推进“一带一路”建设工作5周年座谈会上强调 坚持对话协商共建共享合作共赢交流互鉴 推动共建“一带一路”走深走实造福人民
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml->[视频]李克强对2018年全国医改工作电视电话会议作出重要批示强调 持续加大医疗医保医药联动改革力度 更有效缓解群众看病难看病贵问题
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml->[视频]十三届全国人大常委会第五次会议在京举行 继续审议电子商务法草案 个人所得税法修正案草案等
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml->[视频]韩正会见香港纪律部队文化交流团
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml->[视频]王岐山会见秘鲁外长
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml->[视频]人民日报评论员文章：推动构建人类命运共同体的重要实践平台——论学习习近平总书记在推进“一带一路”建设工作5周年座谈会重要讲话
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml->[视频]国务院办公厅印发《关于进一步调整优化结构提高教育经费使用效益的意见》
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml->[视频]新修订的《中国共产党纪律处分条例》彰显政治性 时代性 针对性
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml->[视频]国新办发布会：“一带一路”从理念愿景转化为现实行动
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml->[视频]中宣部追授杨雪峰“时代楷模”称号
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml->[视频]第十八届亚运会：百米飞人大战苏炳添夺冠
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml->[视频]国内联播快讯
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml->[视频]美对俄新制裁今天生效
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml->[视频]国际联播快讯
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第2页
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第3页
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第4页
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第5页
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第6页
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:12 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第7页
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第8页
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第9页
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第10页
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml, 使用Jsoup解析
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/20188M30d.shtml 解析失败!
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:181)] 当前是第10页,不再采集下一页
+2018-08-30 14:34:13 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 采集完成!
+2018-08-30 14:35:01 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:35:01 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup解析
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:709)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml, 使用Jsoup下载完成
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml,解析成功!
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 获取到href: 15
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:399)] 采集到新闻URL:http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:1, totalLinks:15
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEF4u53TZEiILeOThaQDPq180827.shtml->《新闻联播》 20180827 21:00
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5fOw9emNB5S23tHJM8EO180827.shtml->[视频]习近平在推进“一带一路”建设工作5周年座谈会上强调 坚持对话协商共建共享合作共赢交流互鉴 推动共建“一带一路”走深走实造福人民
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDExdRt5YINESRals1kGlTR180827.shtml->[视频]李克强对2018年全国医改工作电视电话会议作出重要批示强调 持续加大医疗医保医药联动改革力度 更有效缓解群众看病难看病贵问题
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEkUD3NgLYOwcksf1lsjJN180827.shtml->[视频]十三届全国人大常委会第五次会议在京举行 继续审议电子商务法草案 个人所得税法修正案草案等
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEhDwaW0AnEQeb6nWh5z64180827.shtml->[视频]韩正会见香港纪律部队文化交流团
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE7f9sNuRQA5em9MOeyrlK180827.shtml->[视频]王岐山会见秘鲁外长
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEYUof4ugRFUuoRZ5k0rWm180827.shtml->[视频]人民日报评论员文章：推动构建人类命运共同体的重要实践平台——论学习习近平总书记在推进“一带一路”建设工作5周年座谈会重要讲话
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEVNBL2yaXBiGrcZVSMxiT180827.shtml->[视频]国务院办公厅印发《关于进一步调整优化结构提高教育经费使用效益的意见》
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEOCdLUwcH5Oo5n0H2K5DR180827.shtml->[视频]新修订的《中国共产党纪律处分条例》彰显政治性 时代性 针对性
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDE5gLikaxHyNzhbHOVQf37180827.shtml->[视频]国新办发布会：“一带一路”从理念愿景转化为现实行动
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEO6vUcLW2tNrbAtBaxsuv180827.shtml->[视频]中宣部追授杨雪峰“时代楷模”称号
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEZUkzBh8YNvITb2jzdDVR180827.shtml->[视频]第十八届亚运会：百米飞人大战苏炳添夺冠
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDENRGctV1uoYoyDovlLaZJ180827.shtml->[视频]国内联播快讯
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEs72qs7FukDsSVXIWq3Pb180827.shtml->[视频]美对俄新制裁今天生效
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:486)] SUCCESS---detail_url = http://tv.cctv.com/2018/08/27/VIDEc3BQI2NDXY7HFGOfRIRP180827.shtml->[视频]国际联播快讯
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第2页
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:02 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第3页
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第4页
+2018-08-30 14:35:03 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第5页
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第6页
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第7页
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第8页
+2018-08-30 14:35:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第9页
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第10页
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml, 使用Jsoup解析
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/2018830.shtml 解析失败!
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:181)] 当前是第10页,不再采集下一页
+2018-08-30 14:35:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://tv.cctv.com/lm/xwlb/day/20180827.shtml 采集完成!
+2018-08-30 14:37:46 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 14:37:46 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:46 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:46 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:47 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:47 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第2页
+2018-08-30 14:37:47 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:47 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:47 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第3页
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第4页
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:48 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第5页
+2018-08-30 14:37:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:51 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:51 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第6页
+2018-08-30 14:37:51 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:51 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:51 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:52 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:52 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第7页
+2018-08-30 14:37:52 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:52 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:52 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第8页
+2018-08-30 14:37:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:54 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:54 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:54 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第9页
+2018-08-30 14:37:54 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:54 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:55 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:55 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:55 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第10页
+2018-08-30 14:37:55 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:55 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:56 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml, 使用Jsoup解析
+2018-08-30 14:37:56 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:581)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 解析失败!
+2018-08-30 14:37:56 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:181)] 当前是第10页,不再采集下一页
+2018-08-30 14:37:56 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://tv.cctv.com/lm/xwlb/day/#yyyy#MM#dd.shtml 采集完成!
+2018-08-30 19:38:21 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:38:21 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:336)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Jsoup解析
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.downloadPage(CrawlerList.java:706)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Jsoup下载完成
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html,解析成功!
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 获取到href: 10
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:392)] 非此网站:http://www.jmstv.cc/
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:392)] 非此网站:http://jiamusi.dbw.cn/
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:0, totalLinks:0
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:512)] 下一页xpath---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:548)] null未获取到下一页元素
+2018-08-30 19:38:22 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 采集完成!
+2018-08-30 19:38:50 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:38:50 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:38:50 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:38:53 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:38:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:38:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:38:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:206)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html,解析成功!
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 获取到href: 10
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:384)] 无效URL:
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:392)] 非此网站:http://www.jmstv.cc/
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:392)] 非此网站:http://jiamusi.dbw.cn/
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:407)] 开始分簇···
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:424)] 分簇后arr数据:0, totalLinks:0
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:512)] 下一页xpath---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:534)] 下一页翻页未获取到
+2018-08-30 19:39:08 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:596)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 采集完成!
+2018-08-30 19:39:11 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.tearDown(BrowserEngine.java:129)] Closing browser...
+2018-08-30 19:39:35 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:39:35 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:39:35 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:39:37 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:39:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:44:41 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:44:43 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:44:59 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:206)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:45:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:342)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html,解析成功!
+2018-08-30 19:45:14 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:356)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 获取到href: 10
+2018-08-30 19:46:25 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:46:25 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:46:25 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:46:27 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:46:27 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:46:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:46:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:46:59 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:207)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:49:18 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:49:18 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:49:18 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:49:20 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:49:20 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:49:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:49:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:49:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:207)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:49:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:343)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html,解析成功!
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:357)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 获取到href: 10
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:393)] 非此网站:http://www.jmstv.cc/
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:393)] 非此网站:http://jiamusi.dbw.cn/
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 开始分簇···
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:425)] 分簇后arr数据:0, totalLinks:0
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:513)] 下一页xpath---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:535)] 下一页翻页未获取到
+2018-08-30 19:49:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:597)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 采集完成!
+2018-08-30 19:49:53 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.tearDown(BrowserEngine.java:129)] Closing browser...
+2018-08-30 19:50:03 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:50:03 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:50:03 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:50:05 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:50:05 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:50:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:50:11 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:50:36 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:207)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:50:47 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:50:47 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:50:47 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:50:49 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:50:49 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:50:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:50:53 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:51:18 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:207)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:343)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html,解析成功!
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:357)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 获取到href: 10
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:385)] 无效URL:
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:393)] 非此网站:http://www.jmstv.cc/
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:393)] 非此网站:http://jiamusi.dbw.cn/
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 开始分簇···
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:425)] 分簇后arr数据:0, totalLinks:0
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:513)] 下一页xpath---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:535)] 下一页翻页未获取到
+2018-08-30 19:51:50 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:597)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 采集完成!
+2018-08-30 19:51:53 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.tearDown(BrowserEngine.java:129)] Closing browser...
+2018-08-30 19:55:50 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:38)] Start to select browser name from properties file
+2018-08-30 19:55:50 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:41)] Your had select test browser type is: Chrome
+2018-08-30 19:55:50 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.initConfigData(BrowserEngine.java:43)] The test server URL is: null
+2018-08-30 19:55:52 [Thread=main] [com.wenge.datagroup.util.BrowserEngine.getBrowser(BrowserEngine.java:98)] Launching Chrome ...
+2018-08-30 19:55:52 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第1页
+2018-08-30 19:56:01 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:197)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html, 使用Selenium解析
+2018-08-30 19:56:01 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:201)] 开始下载---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:56:26 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:207)] url---http://www.jms.gov.cn/html/index/list/lb00010005.html加载完成
+2018-08-30 19:56:37 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:343)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html,解析成功!
+2018-08-30 19:57:04 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:365)] URL:http://www.jms.gov.cn/html/index/list/lb00010005.html 获取到href: 24
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/ce8f9eed54b0493f938fbd459606fa54.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/21b5f201dc774927afd5079c8ab9a9c6.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/2949b932a7464437adde34b39ce96a67.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/ba0b8db84f1d4326b874487b9b53f729.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/4ebd7e144b064f868c5d498106beb57f.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/6d1a91a4644b40e2bbadc1668f886212.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/30bb0d1b08214ba7bd389038a7fe52cf.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/c45a787fa0344d8784ce06139cf0e5ce.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/3cb880dbdae241438023da24d1747534.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/fdeddd9c44284b84a78482df690bde6f.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/896dd956b9a24b8d944e6f338ce486ed.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/fa97bf427b0248ce99fddc3e43e01420.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/7e9f2de0edd849a8b5728524fb4fd223.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/e21b05c500b74493b6afa017edb7b4e3.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:408)] 采集到新闻URL:http://www.jms.gov.cn/html/index//content/2018/8/7bf407f0e85e4069b0fd64376790c2b7.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:393)] 无效URL:
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:416)] 开始分簇···
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:433)] 分簇后arr数据:2, totalLinks:16
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/ce8f9eed54b0493f938fbd459606fa54.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/21b5f201dc774927afd5079c8ab9a9c6.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/2949b932a7464437adde34b39ce96a67.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/ba0b8db84f1d4326b874487b9b53f729.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/4ebd7e144b064f868c5d498106beb57f.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/6d1a91a4644b40e2bbadc1668f886212.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/30bb0d1b08214ba7bd389038a7fe52cf.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/c45a787fa0344d8784ce06139cf0e5ce.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/3cb880dbdae241438023da24d1747534.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/fdeddd9c44284b84a78482df690bde6f.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/896dd956b9a24b8d944e6f338ce486ed.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/fa97bf427b0248ce99fddc3e43e01420.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/7e9f2de0edd849a8b5728524fb4fd223.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/e21b05c500b74493b6afa017edb7b4e3.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:495)] SUCCESS---detail_url = http://www.jms.gov.cn/html/index//content/2018/8/7bf407f0e85e4069b0fd64376790c2b7.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:521)] 下一页xpath---http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:57:24 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:532)] 点击翻页  http://www.jms.gov.cn/html/index/list/lb00010005.html
+2018-08-30 19:57:31 [Thread=main] [com.wenge.datagroup.CrawlerList.startTask(CrawlerList.java:185)] 当前是第2页
